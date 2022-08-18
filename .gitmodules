@@ -1,0 +1,3 @@
+[submodule "alura_midi"]
+	path = alura_midi
+	url = git@github.com:EltonDutradias/alura_midi.git
